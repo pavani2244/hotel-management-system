@@ -75,3 +75,5 @@
   Run npm install again in the relevant directory.
 
 **This should provide a seamless setup experience for anyone running your project locally!**
+**google doc link:**
+https://docs.google.com/document/d/1Mt7DjI7p-mz0dFew1ttKcFLFrt555l88WjtukXmosJk/edit?usp=sharing
